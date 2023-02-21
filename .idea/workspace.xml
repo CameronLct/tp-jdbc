@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aea3acce-dfa4-423a-aa65-956254a9d755" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/test/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/test/TestSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/test/TestInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/test/TestUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epsi/B3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epsi/B3/TestInsertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epsi/B3/bo/Fournisseur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/bo/Fournisseur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epsi/B3/dal/FournisseurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/dal/FournisseurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epsi/B3/dal/FournisseurDaoJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epsi/B3/dal/FournisseurDaoJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JqyamPxKZph4PZj0mpmGU0EtpJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aea3acce-dfa4-423a-aa65-956254a9d755" name="Changes" comment="" />
+      <created>1672819976359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672819976359</updated>
+      <workItem from="1672819977850" duration="10844000" />
+      <workItem from="1674543943327" duration="187000" />
+      <workItem from="1674630654227" duration="2701000" />
+      <workItem from="1676916322713" duration="10000" />
+      <workItem from="1676919278204" duration="7427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
